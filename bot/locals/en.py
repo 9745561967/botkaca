@@ -23,7 +23,7 @@ LOCAL = Local({
     'THUMBNAIL_DOWNLOADING' : 'Downloading thumbnail.',
     'THUMBNAIL_DOWNLOADED' : 'Thumbnail download.',
     'THUMBNAIL_APPLIED' : 'Thumbnail applied.',
-    'THUMBNAIL_DELETING' : 'Deleting thumbnail.',
+    'THUMBNAIL_DELETING' : 'Delete thumbnail.',
     'THUMBNAIL_RESET' : 'Thumbnail reset.',
     'UPLOAD_AS_DOC' : 'Upload as document set to {status}.',
     'UPLOAD_AS_ZIP' : 'Upload as zip file set to {status}.',
